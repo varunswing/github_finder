@@ -19,7 +19,7 @@ This App Facilitates users to search users profile by their github ID.
 Only pure JavaScript, no other library used.<br>
 <br>
 
-<img src="https://github.com/varunswing/github_finder/blob/master/images/home.JPG"/>
+<img src="https://github.com/varunswing/github_finder/blob/master/images/home.jpg"/>
 <br>
 
  
@@ -30,7 +30,7 @@ Only pure JavaScript, no other library used.<br>
 
 :white_check_mark: Contain bio, location, link to GitHub, follower & following count of users.<br>
 <br>
-<img src="https://github.com/varunswing/github_finder/blob/master/images/end.JPG"/>
+<img src="https://github.com/varunswing/github_finder/blob/master/images/end.jpg"/>
 
 
 <br>
