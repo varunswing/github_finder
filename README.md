@@ -3,7 +3,7 @@
 <summary>Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.</summary><br>
 <summary>This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API.</summary> <br><br>
 
-:technologist: <h2>Visit  Deployed  App on Netlify<h2><br>
+<h2>:technologist:Visit  Deployed  App on Netlify</h2>
 :link: https://varunsgithubfinder.netlify.app
  <br><br>
  
