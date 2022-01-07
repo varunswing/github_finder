@@ -1,16 +1,16 @@
 # <h2>GitHub Finder :mag: </h2>
-React JS Application.<br>
-Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.<br>
-This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API. <br>
+<details>
+<summary>React JS Application.</summary><br>
+<summary>Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.</summary><br>
+<summary>This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API.</summary> <br><br>
+</details>
 
 :technologist: Visit  Deployed  App on Netlify<br><br>
 
 :link: https://varunsgithubfinder.netlify.app
 
 ## Technologies Used: 
-VS STUDIO | POSTMAN | MongoDB ATLAS | NETLIFY <br>
-
-
+VS STUDIO | POSTMAN | MongoDB ATLAS | NETLIFY <br><br>
 
 ## Front-End
 <b>MaterializeCSS</b> for the frontend.
