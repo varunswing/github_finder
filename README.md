@@ -3,10 +3,10 @@
 <summary>Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.</summary><br>
 <summary>This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API.</summary> <br><br>
 
-:technologist: Visit  Deployed  App on Netlify<br><br>
-
+:technologist: <h2>Visit  Deployed  App on Netlify<h2><br>
 :link: https://varunsgithubfinder.netlify.app
-
+ <br><br>
+ 
 ## Technologies Used: 
 VS STUDIO | POSTMAN | MongoDB ATLAS | NETLIFY <br><br>
 
