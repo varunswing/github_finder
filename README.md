@@ -1,9 +1,7 @@
 # <h2>GitHub Finder :mag: </h2>
-<details>
 <summary>React JS Application.</summary><br>
 <summary>Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.</summary><br>
 <summary>This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API.</summary> <br><br>
-</details>
 
 :technologist: Visit  Deployed  App on Netlify<br><br>
 
