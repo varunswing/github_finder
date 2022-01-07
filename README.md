@@ -1,5 +1,5 @@
 ## Description: 
-Full stack MERN contact manager with React hooks, context & JWT authentication, which pulls in user information and corresponding repositories using the GitHub API. :raised_hands:
+Full stack MERN app with React hooks, context & JWT authentication, which pulls in user information and corresponding repositories using the GitHub API. :raised_hands:
 
 :technologist: Visit  Deployed  App on Netlify<br><br>
 
