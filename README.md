@@ -1,5 +1,7 @@
-## Description: 
-Full stack MERN app with React hooks, context & JWT authentication, which pulls in user information and corresponding repositories using the GitHub API. :raised_hands:
+# <h2>GitHub Finder :mag: </h2>
+React JS Application.<br>
+Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.<br>
+This App Facilitates users to  pulls in user information and corresponding repositories using the GitHub API. <br>
 
 :technologist: Visit  Deployed  App on Netlify<br><br>
 
@@ -8,10 +10,7 @@ Full stack MERN app with React hooks, context & JWT authentication, which pulls 
 ## Technologies Used: 
 VS STUDIO | POSTMAN | MongoDB ATLAS | NETLIFY <br>
 
-# <h2>GitHub Finder :mag: </h2>
-React JS Application.<br>
-Fully Functional app which uses the Context API along with the useContext and useReducer hooks for state management.<br>
-This App Facilitates users to search users profile by their github ID. 
+
 
 ## Front-End
 <b>MaterializeCSS</b> for the frontend.
